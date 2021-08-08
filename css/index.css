@@ -458,6 +458,9 @@ a {
 .wetube .project_bg {
   background-color: #d85e50;
 }
+.moviebox .project_bg {
+  background-color: #273c75;
+}
 .calendar .project_bg {
   background-color: rgb(95, 159, 243);
 }
